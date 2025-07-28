@@ -1,4 +1,4 @@
-GitHub Link: 
+GitHub Link: https://github.com/NikkiDunlap/module9b-profile
 
 Module 9B - Custom Profile Component
 
